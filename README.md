@@ -19,3 +19,4 @@ Installazione:
 ```bash
 pip install -r requirements.txt
 
+PS:Al termine di ogni esecuzione verrà generato un grafico nella cartella "evaluation"
