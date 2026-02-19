@@ -1,6 +1,5 @@
 # Onto-Maintenance: Diagnostica Ibrida per Impianti Industriali
 
-Progetto per il corso di Ingegneria della Conoscenza.
 Il sistema implementa un approccio **Neuro-Simbolico** per la diagnosi di guasti, integrando Ontologie (OWL) e Reti Bayesiane.
 
 ## Obiettivo
@@ -19,3 +18,4 @@ Confrontare un approccio puramente Data-Driven (Random Forest) con un approccio 
 Installazione:
 ```bash
 pip install -r requirements.txt
+
